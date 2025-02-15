@@ -1,4 +1,3 @@
-# Pequi Mecânico @HOME
+# PMEC@HOME
 
-
-![Miss-Piggy](https://raw.githubusercontent.com/Pequi-Mecanico-Home/.github/7e899d80f164b9fa4c748d700cf593e92945f86c/profile/%40HOME-CEIA.gif)
+![](https://github.com/Pequi-Mecanico-Home/.github/blob/master/profile/assembly_misckal-v27.gif)
